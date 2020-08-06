@@ -1,0 +1,12 @@
+.thumb{
+	margin: 10px 5px 0 0;
+	width: 100px;
+}
+.success{
+	background-color: green;
+	color:#fff;
+	padding:7px;
+	border-radius:5px;
+	text-align: center;
+	display: inline;
+}
